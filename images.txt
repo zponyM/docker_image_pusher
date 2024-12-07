@@ -1,2 +1,2 @@
-mysql:5.7
 mysql:8.0.36
+--platform=linux/arm64
